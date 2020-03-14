@@ -3,6 +3,10 @@ name = "linenums"
 version = "0.1.0"
 authors = ["blakehawkins"]
 edition = "2018"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/blakehawkins/linenums"
+readme = "README.md"
+description = "linux utility. Reads from stdin, emits (linenumber, line) pairs to stdout."
 
 [dependencies]
 anyhow = "1.0.26"
