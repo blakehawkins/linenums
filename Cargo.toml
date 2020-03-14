@@ -1,0 +1,9 @@
+[package]
+name = "linenums"
+version = "0.1.0"
+authors = ["blakehawkins"]
+edition = "2018"
+
+[dependencies]
+anyhow = "1.0.26"
+stdinix = "0.1.0"
